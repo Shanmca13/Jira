@@ -1,1 +1,1 @@
-This is JIRA Tutorial document for Beginners to Advanced
+This is JIRA Tutorial document for Beginners to Advanced.
